@@ -17,5 +17,5 @@ Final_Project => Bilgi yarýþmasý uygulamasý.
 
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/barisulusoy.png)
 
